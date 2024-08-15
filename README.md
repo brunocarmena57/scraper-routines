@@ -4,9 +4,9 @@ As I was honing my skills in Python automation, I prioritized writing modular, m
 
 The scripts tackle a range of tasks, such as:
 
-🔄 Data synchronization: automating data transfers between different systems, ensuring synchronization and consistency across platforms <br/>
-📊 Report generation: automating the creation of reports from raw data, formatting them, and integrating with external tools for further analysis<br/>
-🔐 Security tasks: automating routine security procedures, managing access controls, and ensuring compliance with data protection policies<br/>
+🔄 Data synchronization: automating data transfers between different systems, ensuring synchronization and consistency across platforms <br/><br/>
+📊 Report generation: automating the creation of reports from raw data, formatting them, and integrating with external tools for further analysis<br/><br/>
+🔐 Security tasks: automating routine security procedures, managing access controls, and ensuring compliance with data protection policies<br/><br/>
 
 The repository houses a collection of Python scripts focused on automation, utilizing a variety of libraries including openpyxl, pyautogui, and Selenium, among others.
 
