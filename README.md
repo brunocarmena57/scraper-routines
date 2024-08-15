@@ -2,7 +2,7 @@ During my time at Bank Sicredi, I was involved in developing and maintaining aut
 
 As I was honing my skills in Python automation, I prioritized writing modular, maintainable code and ensuring that the overall project was well-structured.
 
-The scripts tackle a range of tasks, such as:
+The scripts tackle a range of tasks, such as:<br/>
 
 🔄 Data synchronization: automating data transfers between different systems, ensuring synchronization and consistency across platforms <br/><br/>
 📊 Report generation: automating the creation of reports from raw data, formatting them, and integrating with external tools for further analysis<br/><br/>
