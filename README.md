@@ -1,3 +1,5 @@
+# Automation Routines
+
 During my time at Bank Sicredi, I was involved in developing and maintaining automation scripts. After carefully removing any sensitive data, I was able to share this repository publicly.
 
 As I was honing my skills in Python automation, I prioritized writing modular, maintainable code and ensuring that the overall project was well-structured.
